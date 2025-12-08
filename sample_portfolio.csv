@@ -1,0 +1,5 @@
+symbol,purchase_date,purchase_price,quantity,fees
+AAPL,2024-01-15,180.50,10,9.99
+MSFT,2024-02-20,350.25,5,9.99
+AAPL,2024-03-10,175.80,5,9.99
+GOOGL,2024-04-05,140.60,8,9.99
